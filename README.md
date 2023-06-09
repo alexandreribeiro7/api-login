@@ -24,6 +24,11 @@
 
 ## Description
 
+Caso não consiga desabilitar o EsLint uso o comando abaixo:
+```
+npm install eslint-plugin-disable --save-dev
+```
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
