@@ -23,6 +23,10 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
+Foi utilizado o Prisma ORM para persistir os dados no banco.
+
+npm i -D prisma
+npx prisma
 
 Caso não consiga desabilitar o EsLint uso o comando abaixo:
 ```
